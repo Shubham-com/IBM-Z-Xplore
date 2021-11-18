@@ -1,0 +1,21 @@
+{
+	"messages": [
+		"Use the search button to display datasets",
+		"Invalid node",
+		"Invalid node",
+		"Get Dataset list command submitted.",
+		"The response from Zowe CLI was not successful",
+		"No datasets found",
+		"Retrieving response from "
+	],
+	"keys": [
+		"getChildren.search",
+		"getChildren.error.invalidNode",
+		"getChildren.error.invalidNode",
+		"getChildren.getDatasets.progress",
+		"getChildren.responses.error",
+		"getChildren.noDataset",
+		"getChildren.error.response"
+	],
+	"filePath": "src/dataset/ZoweDatasetNode"
+}

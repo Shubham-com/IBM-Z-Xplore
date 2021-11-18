@@ -1,0 +1,1214 @@
+[2021/11/12 18:39:27.303] [INFO] [extension.js:73] Saving profile "zxplore" of type "zosmf"...
+[2021/11/12 18:39:27.306] [DEBUG] [extension.js:73] Validating the profile ("zxplore" of type "zosmf") before save.
+[2021/11/12 18:39:27.313] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/12 18:39:27.331] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/12 18:39:27.335] [DEBUG] [extension.js:73] Invoking the basic profile manager validate for profile: "zxplore"
+[2021/11/12 18:42:27.676] [INFO] [extension.js:73] Saving profile "zxplore" of type "zosmf"...
+[2021/11/12 18:42:27.690] [DEBUG] [extension.js:73] Validating the profile ("zxplore" of type "zosmf") before save.
+[2021/11/12 18:42:27.693] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/12 18:42:27.702] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/12 18:42:27.706] [DEBUG] [extension.js:73] Invoking the basic profile manager validate for profile: "zxplore"
+[2021/11/12 18:50:30.719] [INFO] [extension.js:73] Saving profile "zxplore" of type "zosmf"...
+[2021/11/12 18:50:30.720] [DEBUG] [extension.js:73] Validating the profile ("zxplore" of type "zosmf") before save.
+[2021/11/12 18:50:30.722] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/12 18:50:30.727] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/12 18:50:30.729] [DEBUG] [extension.js:73] Invoking the basic profile manager validate for profile: "zxplore"
+[2021/11/12 18:50:30.732] [DEBUG] [extension.js:73] Profile "zxplore" of type "zosmf" is valid.
+[2021/11/12 18:50:30.734] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/12 18:50:30.735] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/12 18:50:30.736] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/12 18:50:30.739] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/12 18:50:30.740] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/12 18:50:30.741] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/12 18:50:30.742] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/12 18:50:30.743] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/12 18:50:30.744] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/12 18:50:30.745] [DEBUG] [extension.js:73] Loading dependencies for profile "zxplore" of type "zosmf", checking if if they are valid (before save.)
+[2021/11/12 18:50:30.746] [INFO] [extension.js:73] Saving profile "zxplore" of type "zosmf"...
+[2021/11/12 18:50:30.748] [INFO] [extension.js:73] Profile "zxplore" of type "zosmf" saved.
+[2021/11/12 18:50:30.792] [DEBUG] [extension.js:73] Setting "zxplore" of type "zosmf" as the default profile.
+[2021/11/12 18:50:30.793] [INFO] [extension.js:73] Set default API invoked. Setting "zxplore" as default for type "zosmf".
+[2021/11/12 18:50:30.802] [INFO] [extension.js:73] Writing the updated meta file to disk. Default: zxplore
+[2021/11/12 18:50:30.805] [INFO] [extension.js:73] Save API complete for profile "zxplore" of type "zosmf".
+[2021/11/12 18:50:30.853] [DEBUG] [extension.js:73] Loading profile "zxplore" of type "zosmf".
+[2021/11/12 18:50:30.854] [INFO] [extension.js:73] Loading profile "zxplore" of type "zosmf"...
+[2021/11/12 18:50:30.854] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/12 18:50:30.857] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/12 18:50:30.858] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "false") of type "zosmf".
+[2021/11/12 18:50:30.862] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/12 18:50:30.868] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/12 18:50:30.868] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/12 18:50:30.869] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/12 18:50:30.870] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/12 18:50:30.871] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/12 18:50:30.871] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/12 18:50:30.872] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/12 18:50:30.872] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/12 18:50:30.873] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/12 18:50:30.873] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/12 18:50:30.874] [INFO] [extension.js:73] Loading profile "default" of type "zosmf"...
+[2021/11/12 18:50:30.877] [DEBUG] [extension.js:73] The default profile for type "zosmf" is "zxplore".
+[2021/11/12 18:50:30.879] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/12 18:50:30.879] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/12 18:50:30.881] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "true") of type "zosmf".
+[2021/11/12 18:50:30.882] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/12 18:50:30.883] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/12 18:50:30.883] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/12 18:50:30.884] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/12 18:50:30.884] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/12 18:50:30.885] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/12 18:50:30.886] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/12 18:50:30.886] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/12 18:50:30.887] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/12 18:50:30.888] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/12 18:50:30.888] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/12 18:50:30.892] [DEBUG] [extension.js:73] Loading profile "zxplore" of type "zosmf".
+[2021/11/12 18:50:30.893] [INFO] [extension.js:73] Loading profile "zxplore" of type "zosmf"...
+[2021/11/12 18:50:30.893] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/12 18:50:30.894] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/12 18:50:30.894] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "false") of type "zosmf".
+[2021/11/12 18:50:30.895] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/12 18:50:30.896] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/12 18:50:30.897] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/12 18:50:30.897] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/12 18:50:30.898] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/12 18:50:30.899] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/12 18:50:30.899] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/12 18:50:30.899] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/12 18:50:30.900] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/12 18:50:30.900] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/12 18:50:30.901] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/12 18:54:19.821] [INFO] [extension.js:73] Loading profile "zxplore" of type "zosmf"...
+[2021/11/12 18:54:19.823] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/12 18:54:19.823] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/12 18:54:19.824] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "false") of type "zosmf".
+[2021/11/12 18:54:19.826] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/12 18:54:19.828] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/12 18:54:19.829] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/12 18:54:19.829] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/12 18:54:19.830] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/12 18:54:19.831] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/12 18:54:19.831] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/12 18:54:19.832] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/12 18:54:19.833] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/12 18:54:19.833] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/12 18:54:19.834] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/12 18:54:19.834] [INFO] [extension.js:73] Updating profile "zxplore" of type "zosmf"...
+[2021/11/12 18:54:19.837] [INFO] [extension.js:73] Saving profile "zxplore" of type "zosmf"...
+[2021/11/12 18:54:19.838] [DEBUG] [extension.js:73] Validating the profile ("zxplore" of type "zosmf") before save.
+[2021/11/12 18:54:19.838] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/12 18:54:19.841] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/12 18:54:19.842] [DEBUG] [extension.js:73] Invoking the basic profile manager validate for profile: "zxplore"
+[2021/11/12 18:54:19.843] [DEBUG] [extension.js:73] Profile "zxplore" of type "zosmf" is valid.
+[2021/11/12 18:54:19.844] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/12 18:54:19.845] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/12 18:54:19.846] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/12 18:54:19.846] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/12 18:54:19.847] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/12 18:54:19.847] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/12 18:54:19.848] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/12 18:54:19.848] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/12 18:54:19.849] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/12 18:54:19.849] [DEBUG] [extension.js:73] Loading dependencies for profile "zxplore" of type "zosmf", checking if if they are valid (before save.)
+[2021/11/12 18:54:19.850] [INFO] [extension.js:73] Saving profile "zxplore" of type "zosmf"...
+[2021/11/12 18:54:19.850] [INFO] [extension.js:73] Profile "zxplore" of type "zosmf" saved.
+[2021/11/12 18:54:19.852] [INFO] [extension.js:73] Save API complete for profile "zxplore" of type "zosmf".
+[2021/11/12 18:54:19.852] [DEBUG] [extension.js:73] No CLI args were provided. Used the BasicProfileManager update API
+[2021/11/12 18:54:19.853] [DEBUG] [extension.js:73] Invoking the basic profile manager validate for profile: "zxplore"
+[2021/11/12 18:54:19.854] [DEBUG] [extension.js:73] Profile "zxplore" of type "zosmf" is valid.
+[2021/11/15 23:28:38.655] [DEBUG] [extension.js:73] Loading profile "zxplore" of type "zosmf".
+[2021/11/15 23:28:38.887] [INFO] [extension.js:73] Loading profile "zxplore" of type "zosmf"...
+[2021/11/15 23:28:38.889] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/15 23:28:38.892] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/15 23:28:38.895] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "false") of type "zosmf".
+[2021/11/15 23:28:38.901] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/15 23:28:38.925] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/15 23:28:38.925] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/15 23:28:38.926] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/15 23:28:38.927] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/15 23:28:38.928] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/15 23:28:38.929] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/15 23:28:38.930] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/15 23:28:38.931] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/15 23:28:38.932] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/15 23:28:38.933] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/15 23:28:38.934] [INFO] [extension.js:73] Loading profile "default" of type "zosmf"...
+[2021/11/15 23:28:38.936] [DEBUG] [extension.js:73] The default profile for type "zosmf" is "zxplore".
+[2021/11/15 23:28:38.937] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/15 23:28:38.937] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/15 23:28:38.939] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "true") of type "zosmf".
+[2021/11/15 23:28:38.940] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/15 23:28:38.942] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/15 23:28:38.943] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/15 23:28:38.943] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/15 23:28:38.944] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/15 23:28:38.944] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/15 23:28:38.945] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/15 23:28:38.945] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/15 23:28:38.946] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/15 23:28:38.947] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/15 23:28:38.947] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/15 23:28:50.466] [DEBUG] [extension.js:73] Loading profile "zxplore" of type "zosmf".
+[2021/11/15 23:28:50.467] [INFO] [extension.js:73] Loading profile "zxplore" of type "zosmf"...
+[2021/11/15 23:28:50.468] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/15 23:28:50.468] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/15 23:28:50.469] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "false") of type "zosmf".
+[2021/11/15 23:28:50.471] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/15 23:28:50.478] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/15 23:28:50.481] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/15 23:28:50.483] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/15 23:28:50.484] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/15 23:28:50.484] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/15 23:28:50.485] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/15 23:28:50.486] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/15 23:28:50.486] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/15 23:28:50.487] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/15 23:28:50.488] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/15 23:28:50.488] [INFO] [extension.js:73] Loading profile "default" of type "zosmf"...
+[2021/11/15 23:28:50.490] [DEBUG] [extension.js:73] The default profile for type "zosmf" is "zxplore".
+[2021/11/15 23:28:50.491] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/15 23:28:50.491] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/15 23:28:50.492] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "true") of type "zosmf".
+[2021/11/15 23:28:50.495] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/15 23:28:50.498] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/15 23:28:50.500] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/15 23:28:50.501] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/15 23:28:50.501] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/15 23:28:50.502] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/15 23:28:50.502] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/15 23:28:50.502] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/15 23:28:50.503] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/15 23:28:50.504] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/15 23:28:50.505] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/15 23:28:50.526] [DEBUG] [extension.js:73] Loading profile "zxplore" of type "zosmf".
+[2021/11/15 23:28:50.527] [INFO] [extension.js:73] Loading profile "zxplore" of type "zosmf"...
+[2021/11/15 23:28:50.530] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/15 23:28:50.532] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/15 23:28:50.534] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "false") of type "zosmf".
+[2021/11/15 23:28:50.535] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/15 23:28:50.537] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/15 23:28:50.538] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/15 23:28:50.538] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/15 23:28:50.539] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/15 23:28:50.539] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/15 23:28:50.540] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/15 23:28:50.540] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/15 23:28:50.540] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/15 23:28:50.541] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/15 23:28:50.541] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/15 23:28:50.556] [DEBUG] [extension.js:73] Loading profile "zxplore" of type "zosmf".
+[2021/11/15 23:28:50.557] [INFO] [extension.js:73] Loading profile "zxplore" of type "zosmf"...
+[2021/11/15 23:28:50.558] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/15 23:28:50.559] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/15 23:28:50.560] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "false") of type "zosmf".
+[2021/11/15 23:28:50.562] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/15 23:28:50.564] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/15 23:28:50.565] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/15 23:28:50.566] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/15 23:28:50.567] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/15 23:28:50.567] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/15 23:28:50.568] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/15 23:28:50.568] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/15 23:28:50.569] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/15 23:28:50.569] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/15 23:28:50.569] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/15 23:28:50.570] [INFO] [extension.js:73] Loading profile "default" of type "zosmf"...
+[2021/11/15 23:28:50.571] [DEBUG] [extension.js:73] The default profile for type "zosmf" is "zxplore".
+[2021/11/15 23:28:50.572] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/15 23:28:50.572] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/15 23:28:50.573] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "true") of type "zosmf".
+[2021/11/15 23:28:50.574] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/15 23:28:50.575] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/15 23:28:50.575] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/15 23:28:50.576] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/15 23:28:50.576] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/15 23:28:50.578] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/15 23:28:50.579] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/15 23:28:50.579] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/15 23:28:50.579] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/15 23:28:50.580] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/15 23:28:50.580] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/15 23:28:50.584] [DEBUG] [extension.js:73] Loading profile "zxplore" of type "zosmf".
+[2021/11/15 23:28:50.584] [INFO] [extension.js:73] Loading profile "zxplore" of type "zosmf"...
+[2021/11/15 23:28:50.585] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/15 23:28:50.585] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/15 23:28:50.586] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "false") of type "zosmf".
+[2021/11/15 23:28:50.586] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/15 23:28:50.588] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/15 23:28:50.588] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/15 23:28:50.589] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/15 23:28:50.589] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/15 23:28:50.590] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/15 23:28:50.590] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/15 23:28:50.590] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/15 23:28:50.591] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/15 23:28:50.591] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/15 23:28:50.592] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/15 23:29:01.542] [DEBUG] [extension.js:73] Loading profile "zxplore" of type "zosmf".
+[2021/11/15 23:29:01.543] [INFO] [extension.js:73] Loading profile "zxplore" of type "zosmf"...
+[2021/11/15 23:29:01.544] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/15 23:29:01.545] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/15 23:29:01.546] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "false") of type "zosmf".
+[2021/11/15 23:29:01.548] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/15 23:29:01.552] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/15 23:29:01.553] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/15 23:29:01.554] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/15 23:29:01.555] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/15 23:29:01.555] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/15 23:29:01.556] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/15 23:29:01.557] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/15 23:29:01.558] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/15 23:29:01.559] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/15 23:29:01.560] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/15 23:29:01.561] [INFO] [extension.js:73] Loading profile "default" of type "zosmf"...
+[2021/11/15 23:29:01.564] [DEBUG] [extension.js:73] The default profile for type "zosmf" is "zxplore".
+[2021/11/15 23:29:01.565] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/15 23:29:01.566] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/15 23:29:01.567] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "true") of type "zosmf".
+[2021/11/15 23:29:01.568] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/15 23:29:01.570] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/15 23:29:01.570] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/15 23:29:01.571] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/15 23:29:01.571] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/15 23:29:01.572] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/15 23:29:01.572] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/15 23:29:01.573] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/15 23:29:01.573] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/15 23:29:01.575] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/15 23:29:01.576] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/15 23:29:03.758] [DEBUG] [extension.js:73] Loading profile "zxplore" of type "zosmf".
+[2021/11/15 23:29:03.760] [INFO] [extension.js:73] Loading profile "zxplore" of type "zosmf"...
+[2021/11/15 23:29:03.762] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/15 23:29:03.763] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/15 23:29:03.765] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "false") of type "zosmf".
+[2021/11/15 23:29:03.767] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/15 23:29:03.777] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/15 23:29:03.778] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/15 23:29:03.778] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/15 23:29:03.779] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/15 23:29:03.780] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/15 23:29:03.780] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/15 23:29:03.781] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/15 23:29:03.783] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/15 23:29:03.783] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/15 23:29:03.783] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/15 23:29:03.784] [INFO] [extension.js:73] Loading profile "default" of type "zosmf"...
+[2021/11/15 23:29:03.785] [DEBUG] [extension.js:73] The default profile for type "zosmf" is "zxplore".
+[2021/11/15 23:29:03.786] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/15 23:29:03.786] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/15 23:29:03.787] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "true") of type "zosmf".
+[2021/11/15 23:29:03.788] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/15 23:29:03.791] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/15 23:29:03.792] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/15 23:29:03.794] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/15 23:29:03.794] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/15 23:29:03.795] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/15 23:29:03.795] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/15 23:29:03.796] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/15 23:29:03.796] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/15 23:29:03.797] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/15 23:29:03.797] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/15 23:29:03.811] [DEBUG] [extension.js:73] Loading profile "zxplore" of type "zosmf".
+[2021/11/15 23:29:03.811] [INFO] [extension.js:73] Loading profile "zxplore" of type "zosmf"...
+[2021/11/15 23:29:03.812] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/15 23:29:03.812] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/15 23:29:03.813] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "false") of type "zosmf".
+[2021/11/15 23:29:03.814] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/15 23:29:03.818] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/15 23:29:03.819] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/15 23:29:03.819] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/15 23:29:03.820] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/15 23:29:03.820] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/15 23:29:03.821] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/15 23:29:03.821] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/15 23:29:03.822] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/15 23:29:03.822] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/15 23:29:03.822] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/15 23:29:03.836] [DEBUG] [extension.js:73] Loading profile "zxplore" of type "zosmf".
+[2021/11/15 23:29:03.838] [INFO] [extension.js:73] Loading profile "zxplore" of type "zosmf"...
+[2021/11/15 23:29:03.839] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/15 23:29:03.840] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/15 23:29:03.841] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "false") of type "zosmf".
+[2021/11/15 23:29:03.843] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/15 23:29:03.846] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/15 23:29:03.846] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/15 23:29:03.847] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/15 23:29:03.847] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/15 23:29:03.848] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/15 23:29:03.848] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/15 23:29:03.849] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/15 23:29:03.849] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/15 23:29:03.850] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/15 23:29:03.852] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/15 23:29:03.853] [INFO] [extension.js:73] Loading profile "default" of type "zosmf"...
+[2021/11/15 23:29:03.855] [DEBUG] [extension.js:73] The default profile for type "zosmf" is "zxplore".
+[2021/11/15 23:29:03.856] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/15 23:29:03.857] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/15 23:29:03.859] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "true") of type "zosmf".
+[2021/11/15 23:29:03.860] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/15 23:29:03.862] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/15 23:29:03.863] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/15 23:29:03.863] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/15 23:29:03.864] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/15 23:29:03.864] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/15 23:29:03.865] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/15 23:29:03.866] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/15 23:29:03.867] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/15 23:29:03.867] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/15 23:29:03.868] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/15 23:29:03.874] [DEBUG] [extension.js:73] Loading profile "zxplore" of type "zosmf".
+[2021/11/15 23:29:03.875] [INFO] [extension.js:73] Loading profile "zxplore" of type "zosmf"...
+[2021/11/15 23:29:03.876] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/15 23:29:03.877] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/15 23:29:03.878] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "false") of type "zosmf".
+[2021/11/15 23:29:03.880] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/15 23:29:03.883] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/15 23:29:03.884] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/15 23:29:03.885] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/15 23:29:03.886] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/15 23:29:03.887] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/15 23:29:03.888] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/15 23:29:03.889] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/15 23:29:03.891] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/15 23:29:03.892] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/15 23:29:03.892] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/15 23:29:25.132] [DEBUG] [extension.js:73] Loading profile "zxplore" of type "zosmf".
+[2021/11/15 23:29:25.132] [INFO] [extension.js:73] Loading profile "zxplore" of type "zosmf"...
+[2021/11/15 23:29:25.135] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/15 23:29:25.137] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/15 23:29:25.137] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "false") of type "zosmf".
+[2021/11/15 23:29:25.139] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/15 23:29:25.142] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/15 23:29:25.142] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/15 23:29:25.143] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/15 23:29:25.143] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/15 23:29:25.144] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/15 23:29:25.144] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/15 23:29:25.145] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/15 23:29:25.145] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/15 23:29:25.146] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/15 23:29:25.147] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/15 23:29:25.147] [INFO] [extension.js:73] Loading profile "default" of type "zosmf"...
+[2021/11/15 23:29:25.149] [DEBUG] [extension.js:73] The default profile for type "zosmf" is "zxplore".
+[2021/11/15 23:29:25.150] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/15 23:29:25.151] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/15 23:29:25.153] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "true") of type "zosmf".
+[2021/11/15 23:29:25.154] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/15 23:29:25.156] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/15 23:29:25.157] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/15 23:29:25.157] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/15 23:29:25.158] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/15 23:29:25.158] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/15 23:29:25.158] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/15 23:29:25.159] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/15 23:29:25.159] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/15 23:29:25.160] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/15 23:29:25.160] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/15 23:29:25.779] [DEBUG] [extension.js:73] Loading profile "zxplore" of type "zosmf".
+[2021/11/15 23:29:25.780] [INFO] [extension.js:73] Loading profile "zxplore" of type "zosmf"...
+[2021/11/15 23:29:25.781] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/15 23:29:25.782] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/15 23:29:25.783] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "false") of type "zosmf".
+[2021/11/15 23:29:25.784] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/15 23:29:25.787] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/15 23:29:25.787] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/15 23:29:25.788] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/15 23:29:25.789] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/15 23:29:25.789] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/15 23:29:25.790] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/15 23:29:25.791] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/15 23:29:25.791] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/15 23:29:25.792] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/15 23:29:25.792] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/15 23:29:25.793] [INFO] [extension.js:73] Loading profile "default" of type "zosmf"...
+[2021/11/15 23:29:25.794] [DEBUG] [extension.js:73] The default profile for type "zosmf" is "zxplore".
+[2021/11/15 23:29:25.794] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/15 23:29:25.795] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/15 23:29:25.796] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "true") of type "zosmf".
+[2021/11/15 23:29:25.797] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/15 23:29:25.798] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/15 23:29:25.799] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/15 23:29:25.799] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/15 23:29:25.800] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/15 23:29:25.800] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/15 23:29:25.801] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/15 23:29:25.802] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/15 23:29:25.804] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/15 23:29:25.805] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/15 23:29:25.805] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/15 23:29:25.818] [DEBUG] [extension.js:73] Loading profile "zxplore" of type "zosmf".
+[2021/11/15 23:29:25.818] [INFO] [extension.js:73] Loading profile "zxplore" of type "zosmf"...
+[2021/11/15 23:29:25.819] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/15 23:29:25.820] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/15 23:29:25.820] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "false") of type "zosmf".
+[2021/11/15 23:29:25.821] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/15 23:29:25.823] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/15 23:29:25.824] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/15 23:29:25.825] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/15 23:29:25.825] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/15 23:29:25.825] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/15 23:29:25.826] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/15 23:29:25.826] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/15 23:29:25.827] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/15 23:29:25.827] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/15 23:29:25.828] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/15 23:29:25.842] [DEBUG] [extension.js:73] Loading profile "zxplore" of type "zosmf".
+[2021/11/15 23:29:25.843] [INFO] [extension.js:73] Loading profile "zxplore" of type "zosmf"...
+[2021/11/15 23:29:25.843] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/15 23:29:25.844] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/15 23:29:25.845] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "false") of type "zosmf".
+[2021/11/15 23:29:25.846] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/15 23:29:25.848] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/15 23:29:25.849] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/15 23:29:25.849] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/15 23:29:25.849] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/15 23:29:25.850] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/15 23:29:25.850] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/15 23:29:25.851] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/15 23:29:25.851] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/15 23:29:25.852] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/15 23:29:25.852] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/15 23:29:25.854] [INFO] [extension.js:73] Loading profile "default" of type "zosmf"...
+[2021/11/15 23:29:25.855] [DEBUG] [extension.js:73] The default profile for type "zosmf" is "zxplore".
+[2021/11/15 23:29:25.855] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/15 23:29:25.856] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/15 23:29:25.857] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "true") of type "zosmf".
+[2021/11/15 23:29:25.858] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/15 23:29:25.860] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/15 23:29:25.860] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/15 23:29:25.861] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/15 23:29:25.861] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/15 23:29:25.862] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/15 23:29:25.862] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/15 23:29:25.862] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/15 23:29:25.863] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/15 23:29:25.863] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/15 23:29:25.864] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/15 23:29:25.868] [DEBUG] [extension.js:73] Loading profile "zxplore" of type "zosmf".
+[2021/11/15 23:29:25.869] [INFO] [extension.js:73] Loading profile "zxplore" of type "zosmf"...
+[2021/11/15 23:29:25.870] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/15 23:29:25.871] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/15 23:29:25.872] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "false") of type "zosmf".
+[2021/11/15 23:29:25.874] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/15 23:29:25.876] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/15 23:29:25.876] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/15 23:29:25.876] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/15 23:29:25.877] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/15 23:29:25.877] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/15 23:29:25.878] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/15 23:29:25.878] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/15 23:29:25.878] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/15 23:29:25.879] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/15 23:29:25.879] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/18 13:33:40.144] [DEBUG] [extension.js:73] Loading profile "zxplore" of type "zosmf".
+[2021/11/18 13:33:40.194] [INFO] [extension.js:73] Loading profile "zxplore" of type "zosmf"...
+[2021/11/18 13:33:40.195] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/18 13:33:40.196] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/18 13:33:40.197] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "false") of type "zosmf".
+[2021/11/18 13:33:40.217] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 13:33:40.218] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 13:33:40.219] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 13:33:40.220] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 13:33:40.221] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 13:33:40.221] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 13:33:40.222] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 13:33:40.222] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 13:33:40.223] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 13:33:40.223] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 13:33:40.223] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/18 13:33:40.224] [INFO] [extension.js:73] Loading profile "default" of type "zosmf"...
+[2021/11/18 13:33:40.226] [DEBUG] [extension.js:73] The default profile for type "zosmf" is "zxplore".
+[2021/11/18 13:33:40.227] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/18 13:33:40.228] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/18 13:33:40.230] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "true") of type "zosmf".
+[2021/11/18 13:33:40.232] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 13:33:40.233] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 13:33:40.234] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 13:33:40.234] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 13:33:40.235] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 13:33:40.235] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 13:33:40.236] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 13:33:40.236] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 13:33:40.237] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 13:33:40.238] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 13:33:40.238] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/18 13:33:42.446] [DEBUG] [extension.js:73] Loading profile "zxplore" of type "zosmf".
+[2021/11/18 13:33:42.447] [INFO] [extension.js:73] Loading profile "zxplore" of type "zosmf"...
+[2021/11/18 13:33:42.447] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/18 13:33:42.448] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/18 13:33:42.448] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "false") of type "zosmf".
+[2021/11/18 13:33:42.449] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 13:33:42.451] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 13:33:42.451] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 13:33:42.452] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 13:33:42.452] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 13:33:42.452] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 13:33:42.453] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 13:33:42.454] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 13:33:42.455] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 13:33:42.455] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 13:33:42.456] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/18 13:33:42.457] [INFO] [extension.js:73] Loading profile "default" of type "zosmf"...
+[2021/11/18 13:33:42.458] [DEBUG] [extension.js:73] The default profile for type "zosmf" is "zxplore".
+[2021/11/18 13:33:42.459] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/18 13:33:42.460] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/18 13:33:42.461] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "true") of type "zosmf".
+[2021/11/18 13:33:42.462] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 13:33:42.463] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 13:33:42.464] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 13:33:42.464] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 13:33:42.464] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 13:33:42.465] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 13:33:42.465] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 13:33:42.465] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 13:33:42.466] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 13:33:42.466] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 13:33:42.466] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/18 13:33:42.480] [DEBUG] [extension.js:73] Loading profile "zxplore" of type "zosmf".
+[2021/11/18 13:33:42.481] [INFO] [extension.js:73] Loading profile "zxplore" of type "zosmf"...
+[2021/11/18 13:33:42.481] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/18 13:33:42.482] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/18 13:33:42.482] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "false") of type "zosmf".
+[2021/11/18 13:33:42.483] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 13:33:42.484] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 13:33:42.485] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 13:33:42.485] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 13:33:42.486] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 13:33:42.486] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 13:33:42.488] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 13:33:42.489] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 13:33:42.490] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 13:33:42.491] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 13:33:42.492] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/18 13:33:42.501] [DEBUG] [extension.js:73] Loading profile "zxplore" of type "zosmf".
+[2021/11/18 13:33:42.502] [INFO] [extension.js:73] Loading profile "zxplore" of type "zosmf"...
+[2021/11/18 13:33:42.503] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/18 13:33:42.505] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/18 13:33:42.506] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "false") of type "zosmf".
+[2021/11/18 13:33:42.508] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 13:33:42.509] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 13:33:42.510] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 13:33:42.510] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 13:33:42.510] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 13:33:42.511] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 13:33:42.511] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 13:33:42.511] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 13:33:42.512] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 13:33:42.512] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 13:33:42.512] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/18 13:33:42.513] [INFO] [extension.js:73] Loading profile "default" of type "zosmf"...
+[2021/11/18 13:33:42.514] [DEBUG] [extension.js:73] The default profile for type "zosmf" is "zxplore".
+[2021/11/18 13:33:42.514] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/18 13:33:42.515] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/18 13:33:42.516] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "true") of type "zosmf".
+[2021/11/18 13:33:42.516] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 13:33:42.517] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 13:33:42.517] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 13:33:42.518] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 13:33:42.518] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 13:33:42.518] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 13:33:42.519] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 13:33:42.519] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 13:33:42.520] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 13:33:42.521] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 13:33:42.522] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/18 13:33:42.526] [DEBUG] [extension.js:73] Loading profile "zxplore" of type "zosmf".
+[2021/11/18 13:33:42.526] [INFO] [extension.js:73] Loading profile "zxplore" of type "zosmf"...
+[2021/11/18 13:33:42.526] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/18 13:33:42.527] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/18 13:33:42.527] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "false") of type "zosmf".
+[2021/11/18 13:33:42.528] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 13:33:42.529] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 13:33:42.529] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 13:33:42.529] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 13:33:42.530] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 13:33:42.530] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 13:33:42.530] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 13:33:42.530] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 13:33:42.531] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 13:33:42.531] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 13:33:42.531] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/18 13:34:18.475] [DEBUG] [extension.js:73] Loading profile "zxplore" of type "zosmf".
+[2021/11/18 13:34:18.507] [INFO] [extension.js:73] Loading profile "zxplore" of type "zosmf"...
+[2021/11/18 13:34:18.508] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/18 13:34:18.508] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/18 13:34:18.509] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "false") of type "zosmf".
+[2021/11/18 13:34:18.510] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 13:34:18.512] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 13:34:18.513] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 13:34:18.513] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 13:34:18.514] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 13:34:18.514] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 13:34:18.514] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 13:34:18.515] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 13:34:18.515] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 13:34:18.515] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 13:34:18.516] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/18 13:34:18.516] [INFO] [extension.js:73] Loading profile "default" of type "zosmf"...
+[2021/11/18 13:34:18.518] [DEBUG] [extension.js:73] The default profile for type "zosmf" is "zxplore".
+[2021/11/18 13:34:18.519] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/18 13:34:18.520] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/18 13:34:18.521] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "true") of type "zosmf".
+[2021/11/18 13:34:18.522] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 13:34:18.523] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 13:34:18.524] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 13:34:18.524] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 13:34:18.524] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 13:34:18.525] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 13:34:18.525] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 13:34:18.525] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 13:34:18.526] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 13:34:18.526] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 13:34:18.526] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/18 13:34:19.382] [DEBUG] [extension.js:73] Loading profile "zxplore" of type "zosmf".
+[2021/11/18 13:34:19.383] [INFO] [extension.js:73] Loading profile "zxplore" of type "zosmf"...
+[2021/11/18 13:34:19.383] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/18 13:34:19.384] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/18 13:34:19.384] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "false") of type "zosmf".
+[2021/11/18 13:34:19.386] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 13:34:19.387] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 13:34:19.388] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 13:34:19.388] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 13:34:19.388] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 13:34:19.389] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 13:34:19.389] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 13:34:19.389] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 13:34:19.390] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 13:34:19.390] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 13:34:19.390] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/18 13:34:19.391] [INFO] [extension.js:73] Loading profile "default" of type "zosmf"...
+[2021/11/18 13:34:19.392] [DEBUG] [extension.js:73] The default profile for type "zosmf" is "zxplore".
+[2021/11/18 13:34:19.392] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/18 13:34:19.392] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/18 13:34:19.393] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "true") of type "zosmf".
+[2021/11/18 13:34:19.394] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 13:34:19.396] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 13:34:19.396] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 13:34:19.397] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 13:34:19.397] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 13:34:19.397] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 13:34:19.398] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 13:34:19.398] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 13:34:19.398] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 13:34:19.398] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 13:34:19.399] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/18 13:34:19.409] [DEBUG] [extension.js:73] Loading profile "zxplore" of type "zosmf".
+[2021/11/18 13:34:19.410] [INFO] [extension.js:73] Loading profile "zxplore" of type "zosmf"...
+[2021/11/18 13:34:19.410] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/18 13:34:19.411] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/18 13:34:19.411] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "false") of type "zosmf".
+[2021/11/18 13:34:19.412] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 13:34:19.414] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 13:34:19.415] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 13:34:19.415] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 13:34:19.415] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 13:34:19.416] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 13:34:19.416] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 13:34:19.417] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 13:34:19.417] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 13:34:19.417] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 13:34:19.418] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/18 13:34:19.429] [DEBUG] [extension.js:73] Loading profile "zxplore" of type "zosmf".
+[2021/11/18 13:34:19.430] [INFO] [extension.js:73] Loading profile "zxplore" of type "zosmf"...
+[2021/11/18 13:34:19.431] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/18 13:34:19.431] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/18 13:34:19.431] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "false") of type "zosmf".
+[2021/11/18 13:34:19.432] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 13:34:19.433] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 13:34:19.434] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 13:34:19.434] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 13:34:19.435] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 13:34:19.435] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 13:34:19.436] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 13:34:19.436] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 13:34:19.436] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 13:34:19.437] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 13:34:19.437] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/18 13:34:19.437] [INFO] [extension.js:73] Loading profile "default" of type "zosmf"...
+[2021/11/18 13:34:19.439] [DEBUG] [extension.js:73] The default profile for type "zosmf" is "zxplore".
+[2021/11/18 13:34:19.440] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/18 13:34:19.440] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/18 13:34:19.441] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "true") of type "zosmf".
+[2021/11/18 13:34:19.442] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 13:34:19.443] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 13:34:19.443] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 13:34:19.444] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 13:34:19.444] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 13:34:19.444] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 13:34:19.445] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 13:34:19.445] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 13:34:19.446] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 13:34:19.446] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 13:34:19.446] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/18 13:34:19.450] [DEBUG] [extension.js:73] Loading profile "zxplore" of type "zosmf".
+[2021/11/18 13:34:19.450] [INFO] [extension.js:73] Loading profile "zxplore" of type "zosmf"...
+[2021/11/18 13:34:19.451] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/18 13:34:19.451] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/18 13:34:19.451] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "false") of type "zosmf".
+[2021/11/18 13:34:19.452] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 13:34:19.453] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 13:34:19.453] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 13:34:19.454] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 13:34:19.455] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 13:34:19.455] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 13:34:19.455] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 13:34:19.456] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 13:34:19.456] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 13:34:19.456] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 13:34:19.457] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/18 13:34:40.340] [DEBUG] [extension.js:73] Loading profile "zxplore" of type "zosmf".
+[2021/11/18 13:34:40.341] [INFO] [extension.js:73] Loading profile "zxplore" of type "zosmf"...
+[2021/11/18 13:34:40.341] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/18 13:34:40.342] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/18 13:34:40.342] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "false") of type "zosmf".
+[2021/11/18 13:34:40.344] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 13:34:40.346] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 13:34:40.347] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 13:34:40.347] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 13:34:40.348] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 13:34:40.348] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 13:34:40.348] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 13:34:40.349] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 13:34:40.349] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 13:34:40.350] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 13:34:40.350] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/18 13:34:40.350] [INFO] [extension.js:73] Loading profile "default" of type "zosmf"...
+[2021/11/18 13:34:40.352] [DEBUG] [extension.js:73] The default profile for type "zosmf" is "zxplore".
+[2021/11/18 13:34:40.352] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/18 13:34:40.353] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/18 13:34:40.355] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "true") of type "zosmf".
+[2021/11/18 13:34:40.356] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 13:34:40.357] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 13:34:40.358] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 13:34:40.359] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 13:34:40.360] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 13:34:40.360] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 13:34:40.361] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 13:34:40.361] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 13:34:40.361] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 13:34:40.362] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 13:34:40.363] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/18 13:34:41.178] [DEBUG] [extension.js:73] Loading profile "zxplore" of type "zosmf".
+[2021/11/18 13:34:41.179] [INFO] [extension.js:73] Loading profile "zxplore" of type "zosmf"...
+[2021/11/18 13:34:41.179] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/18 13:34:41.180] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/18 13:34:41.181] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "false") of type "zosmf".
+[2021/11/18 13:34:41.182] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 13:34:41.183] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 13:34:41.183] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 13:34:41.184] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 13:34:41.184] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 13:34:41.184] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 13:34:41.185] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 13:34:41.185] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 13:34:41.185] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 13:34:41.186] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 13:34:41.186] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/18 13:34:41.186] [INFO] [extension.js:73] Loading profile "default" of type "zosmf"...
+[2021/11/18 13:34:41.187] [DEBUG] [extension.js:73] The default profile for type "zosmf" is "zxplore".
+[2021/11/18 13:34:41.188] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/18 13:34:41.188] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/18 13:34:41.190] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "true") of type "zosmf".
+[2021/11/18 13:34:41.191] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 13:34:41.192] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 13:34:41.193] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 13:34:41.193] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 13:34:41.194] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 13:34:41.194] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 13:34:41.194] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 13:34:41.195] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 13:34:41.195] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 13:34:41.195] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 13:34:41.196] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/18 13:34:41.207] [DEBUG] [extension.js:73] Loading profile "zxplore" of type "zosmf".
+[2021/11/18 13:34:41.208] [INFO] [extension.js:73] Loading profile "zxplore" of type "zosmf"...
+[2021/11/18 13:34:41.208] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/18 13:34:41.208] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/18 13:34:41.209] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "false") of type "zosmf".
+[2021/11/18 13:34:41.210] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 13:34:41.211] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 13:34:41.212] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 13:34:41.212] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 13:34:41.212] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 13:34:41.213] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 13:34:41.213] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 13:34:41.214] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 13:34:41.214] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 13:34:41.214] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 13:34:41.215] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/18 13:34:41.228] [DEBUG] [extension.js:73] Loading profile "zxplore" of type "zosmf".
+[2021/11/18 13:34:41.229] [INFO] [extension.js:73] Loading profile "zxplore" of type "zosmf"...
+[2021/11/18 13:34:41.229] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/18 13:34:41.230] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/18 13:34:41.230] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "false") of type "zosmf".
+[2021/11/18 13:34:41.232] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 13:34:41.233] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 13:34:41.233] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 13:34:41.234] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 13:34:41.234] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 13:34:41.234] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 13:34:41.235] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 13:34:41.235] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 13:34:41.236] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 13:34:41.236] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 13:34:41.236] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/18 13:34:41.237] [INFO] [extension.js:73] Loading profile "default" of type "zosmf"...
+[2021/11/18 13:34:41.238] [DEBUG] [extension.js:73] The default profile for type "zosmf" is "zxplore".
+[2021/11/18 13:34:41.239] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/18 13:34:41.239] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/18 13:34:41.241] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "true") of type "zosmf".
+[2021/11/18 13:34:41.241] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 13:34:41.242] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 13:34:41.243] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 13:34:41.243] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 13:34:41.243] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 13:34:41.244] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 13:34:41.244] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 13:34:41.245] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 13:34:41.245] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 13:34:41.245] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 13:34:41.246] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/18 13:34:41.250] [DEBUG] [extension.js:73] Loading profile "zxplore" of type "zosmf".
+[2021/11/18 13:34:41.250] [INFO] [extension.js:73] Loading profile "zxplore" of type "zosmf"...
+[2021/11/18 13:34:41.251] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/18 13:34:41.251] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/18 13:34:41.251] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "false") of type "zosmf".
+[2021/11/18 13:34:41.252] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 13:34:41.253] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 13:34:41.254] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 13:34:41.255] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 13:34:41.256] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 13:34:41.256] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 13:34:41.257] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 13:34:41.257] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 13:34:41.257] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 13:34:41.258] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 13:34:41.258] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/18 19:43:14.144] [DEBUG] [extension.js:73] Loading profile "zxplore" of type "zosmf".
+[2021/11/18 19:43:14.450] [INFO] [extension.js:73] Loading profile "zxplore" of type "zosmf"...
+[2021/11/18 19:43:14.451] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/18 19:43:14.452] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/18 19:43:14.453] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "false") of type "zosmf".
+[2021/11/18 19:43:14.536] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 19:43:14.540] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 19:43:14.541] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 19:43:14.542] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 19:43:14.543] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 19:43:14.544] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 19:43:14.545] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 19:43:14.545] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 19:43:14.547] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 19:43:14.548] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 19:43:14.548] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/18 19:43:14.549] [INFO] [extension.js:73] Loading profile "default" of type "zosmf"...
+[2021/11/18 19:43:14.552] [DEBUG] [extension.js:73] The default profile for type "zosmf" is "zxplore".
+[2021/11/18 19:43:14.553] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/18 19:43:14.554] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/18 19:43:14.556] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "true") of type "zosmf".
+[2021/11/18 19:43:14.557] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 19:43:14.559] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 19:43:14.559] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 19:43:14.560] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 19:43:14.561] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 19:43:14.562] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 19:43:14.563] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 19:43:14.564] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 19:43:14.565] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 19:43:14.566] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 19:43:14.566] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/18 19:43:20.856] [DEBUG] [extension.js:73] Loading profile "zxplore" of type "zosmf".
+[2021/11/18 19:43:20.857] [INFO] [extension.js:73] Loading profile "zxplore" of type "zosmf"...
+[2021/11/18 19:43:20.858] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/18 19:43:20.859] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/18 19:43:20.860] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "false") of type "zosmf".
+[2021/11/18 19:43:20.862] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 19:43:20.865] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 19:43:20.866] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 19:43:20.866] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 19:43:20.867] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 19:43:20.867] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 19:43:20.868] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 19:43:20.868] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 19:43:20.869] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 19:43:20.869] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 19:43:20.869] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/18 19:43:20.870] [INFO] [extension.js:73] Loading profile "default" of type "zosmf"...
+[2021/11/18 19:43:20.871] [DEBUG] [extension.js:73] The default profile for type "zosmf" is "zxplore".
+[2021/11/18 19:43:20.872] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/18 19:43:20.872] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/18 19:43:20.873] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "true") of type "zosmf".
+[2021/11/18 19:43:20.875] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 19:43:20.877] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 19:43:20.877] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 19:43:20.878] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 19:43:20.878] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 19:43:20.879] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 19:43:20.879] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 19:43:20.880] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 19:43:20.880] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 19:43:20.882] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 19:43:20.882] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/18 19:43:20.895] [DEBUG] [extension.js:73] Loading profile "zxplore" of type "zosmf".
+[2021/11/18 19:43:20.896] [INFO] [extension.js:73] Loading profile "zxplore" of type "zosmf"...
+[2021/11/18 19:43:20.897] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/18 19:43:20.897] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/18 19:43:20.898] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "false") of type "zosmf".
+[2021/11/18 19:43:20.899] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 19:43:20.902] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 19:43:20.902] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 19:43:20.903] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 19:43:20.903] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 19:43:20.904] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 19:43:20.904] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 19:43:20.905] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 19:43:20.905] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 19:43:20.906] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 19:43:20.906] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/18 19:43:20.919] [DEBUG] [extension.js:73] Loading profile "zxplore" of type "zosmf".
+[2021/11/18 19:43:20.920] [INFO] [extension.js:73] Loading profile "zxplore" of type "zosmf"...
+[2021/11/18 19:43:20.921] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/18 19:43:20.921] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/18 19:43:20.922] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "false") of type "zosmf".
+[2021/11/18 19:43:20.924] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 19:43:20.925] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 19:43:20.926] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 19:43:20.926] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 19:43:20.927] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 19:43:20.927] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 19:43:20.927] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 19:43:20.928] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 19:43:20.928] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 19:43:20.929] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 19:43:20.929] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/18 19:43:20.930] [INFO] [extension.js:73] Loading profile "default" of type "zosmf"...
+[2021/11/18 19:43:20.931] [DEBUG] [extension.js:73] The default profile for type "zosmf" is "zxplore".
+[2021/11/18 19:43:20.932] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/18 19:43:20.932] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/18 19:43:20.934] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "true") of type "zosmf".
+[2021/11/18 19:43:20.934] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 19:43:20.937] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 19:43:20.937] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 19:43:20.938] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 19:43:20.938] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 19:43:20.938] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 19:43:20.939] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 19:43:20.939] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 19:43:20.940] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 19:43:20.940] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 19:43:20.941] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/18 19:43:20.947] [DEBUG] [extension.js:73] Loading profile "zxplore" of type "zosmf".
+[2021/11/18 19:43:20.948] [INFO] [extension.js:73] Loading profile "zxplore" of type "zosmf"...
+[2021/11/18 19:43:20.949] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/18 19:43:20.950] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/18 19:43:20.950] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "false") of type "zosmf".
+[2021/11/18 19:43:20.951] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 19:43:20.953] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 19:43:20.954] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 19:43:20.954] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 19:43:20.954] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 19:43:20.955] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 19:43:20.955] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 19:43:20.956] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 19:43:20.956] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 19:43:20.956] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 19:43:20.957] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/18 20:28:39.009] [INFO] [extension.js:73] Deleting profile "zxplore" of type "zosmf"...
+[2021/11/18 20:28:39.153] [DEBUG] [extension.js:73] Loading profile "zxplore" of type "zosmf".
+[2021/11/18 20:28:39.155] [INFO] [extension.js:73] Loading profile "zxplore" of type "zosmf"...
+[2021/11/18 20:28:39.156] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_zxplore" is 1
+[2021/11/18 20:28:39.157] [DEBUG] [extension.js:73] Invoking the implementation to load profile "zxplore" of type "zosmf".
+[2021/11/18 20:28:39.159] [DEBUG] [extension.js:73] Loading profile "zxplore" (load default: "false") of type "zosmf".
+[2021/11/18 20:28:39.164] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 20:28:39.167] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 20:28:39.167] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 20:28:39.168] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 20:28:39.168] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 20:28:39.169] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 20:28:39.170] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 20:28:39.170] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 20:28:39.171] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 20:28:39.171] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 20:28:39.172] [INFO] [extension.js:73] Load API completed for profile "zxplore" of type "zosmf".
+[2021/11/18 20:28:39.173] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 20:28:39.173] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 20:28:39.173] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 20:28:39.174] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 20:28:39.174] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 20:28:39.175] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 20:28:39.175] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 20:28:39.175] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 20:28:39.176] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 20:28:39.177] [DEBUG] [extension.js:73] Profile "zxplore" of type "zosmf" successfully deleted.
+[2021/11/18 20:28:39.180] [DEBUG] [extension.js:73] Profile deleted was the default. Clearing the default profile for type "zosmf".
+[2021/11/18 20:28:39.180] [INFO] [extension.js:73] Clear default API invoked for type "zosmf".
+[2021/11/18 20:28:39.185] [INFO] [extension.js:73] Writing the updated meta file to disk. Default: null
+[2021/11/18 20:31:52.456] [INFO] [extension.js:73] Saving profile "z05396" of type "zosmf"...
+[2021/11/18 20:31:52.457] [DEBUG] [extension.js:73] Validating the profile ("z05396" of type "zosmf") before save.
+[2021/11/18 20:31:52.457] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 20:31:52.460] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 20:31:52.461] [DEBUG] [extension.js:73] Invoking the basic profile manager validate for profile: "z05396"
+[2021/11/18 20:31:52.463] [DEBUG] [extension.js:73] Profile "z05396" of type "zosmf" is valid.
+[2021/11/18 20:31:52.465] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 20:31:52.465] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 20:31:52.466] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 20:31:52.466] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 20:31:52.467] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 20:31:52.467] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 20:31:52.468] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 20:31:52.468] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 20:31:52.469] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 20:31:52.469] [DEBUG] [extension.js:73] Loading dependencies for profile "z05396" of type "zosmf", checking if if they are valid (before save.)
+[2021/11/18 20:31:52.470] [INFO] [extension.js:73] Saving profile "z05396" of type "zosmf"...
+[2021/11/18 20:31:52.471] [INFO] [extension.js:73] Profile "z05396" of type "zosmf" saved.
+[2021/11/18 20:31:52.475] [DEBUG] [extension.js:73] Setting "z05396" of type "zosmf" as the default profile.
+[2021/11/18 20:31:52.476] [INFO] [extension.js:73] Set default API invoked. Setting "z05396" as default for type "zosmf".
+[2021/11/18 20:31:52.480] [INFO] [extension.js:73] Writing the updated meta file to disk. Default: z05396
+[2021/11/18 20:31:52.481] [INFO] [extension.js:73] Save API complete for profile "z05396" of type "zosmf".
+[2021/11/18 20:31:52.504] [DEBUG] [extension.js:73] Loading profile "z05396" of type "zosmf".
+[2021/11/18 20:31:52.504] [INFO] [extension.js:73] Loading profile "z05396" of type "zosmf"...
+[2021/11/18 20:31:52.505] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_z05396" is 1
+[2021/11/18 20:31:52.505] [DEBUG] [extension.js:73] Invoking the implementation to load profile "z05396" of type "zosmf".
+[2021/11/18 20:31:52.506] [DEBUG] [extension.js:73] Loading profile "z05396" (load default: "false") of type "zosmf".
+[2021/11/18 20:31:52.507] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 20:31:52.509] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 20:31:52.510] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 20:31:52.510] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 20:31:52.510] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 20:31:52.511] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 20:31:52.511] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 20:31:52.512] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 20:31:52.512] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 20:31:52.513] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 20:31:52.513] [INFO] [extension.js:73] Load API completed for profile "z05396" of type "zosmf".
+[2021/11/18 20:31:52.514] [INFO] [extension.js:73] Loading profile "default" of type "zosmf"...
+[2021/11/18 20:31:52.516] [DEBUG] [extension.js:73] The default profile for type "zosmf" is "z05396".
+[2021/11/18 20:31:52.516] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_z05396" is 1
+[2021/11/18 20:31:52.517] [DEBUG] [extension.js:73] Invoking the implementation to load profile "z05396" of type "zosmf".
+[2021/11/18 20:31:52.518] [DEBUG] [extension.js:73] Loading profile "z05396" (load default: "true") of type "zosmf".
+[2021/11/18 20:31:52.519] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 20:31:52.520] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 20:31:52.520] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 20:31:52.521] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 20:31:52.521] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 20:31:52.522] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 20:31:52.522] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 20:31:52.523] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 20:31:52.523] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 20:31:52.523] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 20:31:52.524] [INFO] [extension.js:73] Load API completed for profile "z05396" of type "zosmf".
+[2021/11/18 20:31:52.528] [DEBUG] [extension.js:73] Loading profile "z05396" of type "zosmf".
+[2021/11/18 20:31:52.529] [INFO] [extension.js:73] Loading profile "z05396" of type "zosmf"...
+[2021/11/18 20:31:52.530] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_z05396" is 1
+[2021/11/18 20:31:52.530] [DEBUG] [extension.js:73] Invoking the implementation to load profile "z05396" of type "zosmf".
+[2021/11/18 20:31:52.531] [DEBUG] [extension.js:73] Loading profile "z05396" (load default: "false") of type "zosmf".
+[2021/11/18 20:31:52.534] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 20:31:52.536] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 20:31:52.536] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 20:31:52.536] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 20:31:52.537] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 20:31:52.538] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 20:31:52.538] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 20:31:52.539] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 20:31:52.539] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 20:31:52.540] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 20:31:52.540] [INFO] [extension.js:73] Load API completed for profile "z05396" of type "zosmf".
+[2021/11/18 20:32:45.568] [INFO] [extension.js:73] Deleting profile "z05396" of type "zosmf"...
+[2021/11/18 20:32:45.576] [DEBUG] [extension.js:73] Loading profile "z05396" of type "zosmf".
+[2021/11/18 20:32:45.577] [INFO] [extension.js:73] Loading profile "z05396" of type "zosmf"...
+[2021/11/18 20:32:45.579] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_z05396" is 1
+[2021/11/18 20:32:45.581] [DEBUG] [extension.js:73] Invoking the implementation to load profile "z05396" of type "zosmf".
+[2021/11/18 20:32:45.582] [DEBUG] [extension.js:73] Loading profile "z05396" (load default: "false") of type "zosmf".
+[2021/11/18 20:32:45.583] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 20:32:45.586] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 20:32:45.588] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 20:32:45.589] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 20:32:45.590] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 20:32:45.590] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 20:32:45.591] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 20:32:45.591] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 20:32:45.591] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 20:32:45.592] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 20:32:45.592] [INFO] [extension.js:73] Load API completed for profile "z05396" of type "zosmf".
+[2021/11/18 20:32:45.593] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 20:32:45.593] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 20:32:45.594] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 20:32:45.594] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 20:32:45.594] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 20:32:45.595] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 20:32:45.595] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 20:32:45.595] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 20:32:45.596] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 20:32:45.597] [DEBUG] [extension.js:73] Profile "z05396" of type "zosmf" successfully deleted.
+[2021/11/18 20:32:45.598] [DEBUG] [extension.js:73] Profile deleted was the default. Clearing the default profile for type "zosmf".
+[2021/11/18 20:32:45.598] [INFO] [extension.js:73] Clear default API invoked for type "zosmf".
+[2021/11/18 20:32:45.599] [INFO] [extension.js:73] Writing the updated meta file to disk. Default: null
+[2021/11/18 20:34:09.464] [INFO] [extension.js:73] Saving profile "z05396" of type "zosmf"...
+[2021/11/18 20:34:09.465] [DEBUG] [extension.js:73] Validating the profile ("z05396" of type "zosmf") before save.
+[2021/11/18 20:34:09.467] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 20:34:09.469] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 20:34:09.471] [DEBUG] [extension.js:73] Invoking the basic profile manager validate for profile: "z05396"
+[2021/11/18 20:34:09.473] [DEBUG] [extension.js:73] Profile "z05396" of type "zosmf" is valid.
+[2021/11/18 20:34:09.474] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 20:34:09.474] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 20:34:09.474] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 20:34:09.475] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 20:34:09.475] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 20:34:09.476] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 20:34:09.476] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 20:34:09.476] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 20:34:09.477] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 20:34:09.477] [DEBUG] [extension.js:73] Loading dependencies for profile "z05396" of type "zosmf", checking if if they are valid (before save.)
+[2021/11/18 20:34:09.478] [INFO] [extension.js:73] Saving profile "z05396" of type "zosmf"...
+[2021/11/18 20:34:09.478] [INFO] [extension.js:73] Profile "z05396" of type "zosmf" saved.
+[2021/11/18 20:34:09.479] [DEBUG] [extension.js:73] Setting "z05396" of type "zosmf" as the default profile.
+[2021/11/18 20:34:09.480] [INFO] [extension.js:73] Set default API invoked. Setting "z05396" as default for type "zosmf".
+[2021/11/18 20:34:09.482] [INFO] [extension.js:73] Writing the updated meta file to disk. Default: z05396
+[2021/11/18 20:34:09.483] [INFO] [extension.js:73] Save API complete for profile "z05396" of type "zosmf".
+[2021/11/18 20:34:09.491] [DEBUG] [extension.js:73] Loading profile "z05396" of type "zosmf".
+[2021/11/18 20:34:09.492] [INFO] [extension.js:73] Loading profile "z05396" of type "zosmf"...
+[2021/11/18 20:34:09.492] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_z05396" is 1
+[2021/11/18 20:34:09.493] [DEBUG] [extension.js:73] Invoking the implementation to load profile "z05396" of type "zosmf".
+[2021/11/18 20:34:09.493] [DEBUG] [extension.js:73] Loading profile "z05396" (load default: "false") of type "zosmf".
+[2021/11/18 20:34:09.494] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 20:34:09.496] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 20:34:09.496] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 20:34:09.497] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 20:34:09.497] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 20:34:09.497] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 20:34:09.498] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 20:34:09.498] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 20:34:09.499] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 20:34:09.499] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 20:34:09.500] [INFO] [extension.js:73] Load API completed for profile "z05396" of type "zosmf".
+[2021/11/18 20:34:09.500] [INFO] [extension.js:73] Loading profile "default" of type "zosmf"...
+[2021/11/18 20:34:09.501] [DEBUG] [extension.js:73] The default profile for type "zosmf" is "z05396".
+[2021/11/18 20:34:09.502] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_z05396" is 1
+[2021/11/18 20:34:09.502] [DEBUG] [extension.js:73] Invoking the implementation to load profile "z05396" of type "zosmf".
+[2021/11/18 20:34:09.503] [DEBUG] [extension.js:73] Loading profile "z05396" (load default: "true") of type "zosmf".
+[2021/11/18 20:34:09.504] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 20:34:09.505] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 20:34:09.506] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 20:34:09.506] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 20:34:09.506] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 20:34:09.507] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 20:34:09.507] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 20:34:09.508] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 20:34:09.508] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 20:34:09.508] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 20:34:09.509] [INFO] [extension.js:73] Load API completed for profile "z05396" of type "zosmf".
+[2021/11/18 20:34:09.512] [DEBUG] [extension.js:73] Loading profile "z05396" of type "zosmf".
+[2021/11/18 20:34:09.513] [INFO] [extension.js:73] Loading profile "z05396" of type "zosmf"...
+[2021/11/18 20:34:09.513] [DEBUG] [extension.js:73] Load count for "type_name" key "zosmf_z05396" is 1
+[2021/11/18 20:34:09.513] [DEBUG] [extension.js:73] Invoking the implementation to load profile "z05396" of type "zosmf".
+[2021/11/18 20:34:09.514] [DEBUG] [extension.js:73] Loading profile "z05396" (load default: "false") of type "zosmf".
+[2021/11/18 20:34:09.515] [INFO] [extension.js:73] Validating profile of type "zosmf"...
+[2021/11/18 20:34:09.516] [DEBUG] [extension.js:73] Setting profile field host from command line option host
+[2021/11/18 20:34:09.517] [DEBUG] [extension.js:73] Setting profile field port from command line option port
+[2021/11/18 20:34:09.517] [DEBUG] [extension.js:73] Setting profile field user from command line option user
+[2021/11/18 20:34:09.518] [DEBUG] [extension.js:73] Setting profile field password from command line option password
+[2021/11/18 20:34:09.518] [DEBUG] [extension.js:73] Setting profile field rejectUnauthorized from command line option reject-unauthorized
+[2021/11/18 20:34:09.518] [DEBUG] [extension.js:73] Setting profile field basePath from command line option base-path
+[2021/11/18 20:34:09.519] [DEBUG] [extension.js:73] Setting profile field protocol from command line option protocol
+[2021/11/18 20:34:09.519] [DEBUG] [extension.js:73] Setting profile field encoding from command line option encoding
+[2021/11/18 20:34:09.520] [DEBUG] [extension.js:73] Setting profile field responseTimeout from command line option response-timeout
+[2021/11/18 20:34:09.520] [INFO] [extension.js:73] Load API completed for profile "z05396" of type "zosmf".

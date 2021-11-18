@@ -1,0 +1,35 @@
+{
+	"messages": [
+		"Select",
+		"Modify Command",
+		"Command response: ",
+		"Not implemented yet for profile of type: ",
+		"Command response: ",
+		"Not implemented yet for profile of type: ",
+		"Owner",
+		"Prefix",
+		"Delete",
+		"Are you sure you want to delete the following {0} item(s)?\nThis will permanently remove the following job(s) from your system.\n\n{1}",
+		"Delete action was canceled.",
+		"Delete action was cancelled.",
+		"The following jobs were deleted: {0}",
+		"Job {0} deleted."
+	],
+	"keys": [
+		"downloadSpool.select",
+		"jobActions.modifyCommand.command.prompt",
+		"jobActions.modifyCommand.response",
+		"jobActions.modifyCommand.apiNonExisting",
+		"jobActions.stopCommand.response",
+		"jobActions.stopCommand.apiNonExisting",
+		"setOwner.newOwner.prompt.owner",
+		"setOwner.newOwner.prompt.prefix",
+		"deleteJobPrompt.confirmation.delete",
+		"deleteJobPrompt.confirmation.message",
+		"deleteJobPrompt.confirmation.cancel.log.debug",
+		"deleteJobPrompt.deleteCancelled",
+		"deleteCommand.multipleJobs",
+		"deleteCommand.job"
+	],
+	"filePath": "src/job/actions"
+}
